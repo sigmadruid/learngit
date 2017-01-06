@@ -1,0 +1,277 @@
+BATTLE_INFO
+{
+  "rpData": null,
+  "info": {
+    "id": "586f387a7d2a680001f4987d-0",
+    "type": 1,
+    "status": 2,
+    "createdAt": 1483683962,
+    "startedAt": 1483683966,
+    "siegedAt": 0,
+    "hijackdAt": 0,
+    "attacker": {
+      "player_id": "57ecb0429489750001a3b4af",
+      "march_team_id": "57ecb0439489750001a3b4c4",
+      "groups": [
+        {
+          "unit_name": "pikeman",
+          "unit_level": 1,
+          "unit_qty": 821,
+          "pos": 0,
+          "attack": 427356,
+          "defense": 169884,
+          "life": 1985985,
+          "range": 300000,
+          "move_speed": 700000,
+          "attack_speed": 12500000,
+          "hero_name": "ManceRayder",
+          "hero_level": 90,
+          "skillInfos": [
+            {
+              "pos": 0,
+              "level": 1
+            }
+          ],
+          "hero_evolve": 0,
+          "hero_enhance": 0,
+          "finalLeaderShip": 821,
+          "hit": 10215,
+          "crit": 66,
+          "dodge": 0,
+          "impale": 0
+        },
+        {
+          "unit_name": "pikeman",
+          "unit_level": 1,
+          "unit_qty": 111,
+          "pos": 1,
+          "attack": 290412,
+          "defense": 136214,
+          "life": 1536336,
+          "range": 300000,
+          "move_speed": 726600,
+          "attack_speed": 12500000,
+          "hero_name": "boron",
+          "hero_level": 7,
+          "skillInfos": [
+            {
+              "pos": 0,
+              "level": 1
+            }
+          ],
+          "hero_evolve": 1,
+          "hero_enhance": 5,
+          "finalLeaderShip": 111,
+          "hit": 10000,
+          "crit": 0,
+          "dodge": 66,
+          "impale": 0
+        },
+        {
+          "unit_name": "infantry",
+          "unit_level": 1,
+          "unit_qty": 75,
+          "pos": 2,
+          "attack": 123612,
+          "defense": 270530,
+          "life": 2592598,
+          "range": 300000,
+          "move_speed": 700000,
+          "attack_speed": 10000000,
+          "hero_name": "Adeline",
+          "hero_level": 1,
+          "skillInfos": [
+            {
+              "pos": 0,
+              "level": 1
+            }
+          ],
+          "hero_evolve": 0,
+          "hero_enhance": 0,
+          "finalLeaderShip": 75,
+          "hit": 10066,
+          "crit": 0,
+          "dodge": 0,
+          "impale": 0
+        },
+        {
+          "unit_name": "cavalry",
+          "unit_level": 1,
+          "unit_qty": 90,
+          "pos": 3,
+          "attack": 211759,
+          "defense": 134303,
+          "life": 1617512,
+          "range": 300000,
+          "move_speed": 1050000,
+          "attack_speed": 10000000,
+          "hero_name": "breny",
+          "hero_level": 1,
+          "skillInfos": [
+            {
+              "pos": 0,
+              "level": 1
+            }
+          ],
+          "hero_evolve": 0,
+          "hero_enhance": 0,
+          "finalLeaderShip": 90,
+          "hit": 10149,
+          "crit": 0,
+          "dodge": 66,
+          "impale": 0
+        },
+        {
+          "unit_name": "infantry",
+          "unit_level": 1,
+          "unit_qty": 94,
+          "pos": 4,
+          "attack": 124428,
+          "defense": 271284,
+          "life": 2456568,
+          "range": 300000,
+          "move_speed": 700000,
+          "attack_speed": 10000000,
+          "hero_name": "QhorinHalfhand",
+          "hero_level": 1,
+          "skillInfos": [
+            {
+              "pos": 0,
+              "level": 1
+            }
+          ],
+          "hero_evolve": 0,
+          "hero_enhance": 0,
+          "finalLeaderShip": 94,
+          "hit": 10215,
+          "crit": 0,
+          "dodge": 66,
+          "impale": 0
+        }
+      ],
+      "wall_hp": 0,
+      "wall_lvl": 0,
+      "power": 65469
+    },
+    "defender": {
+      "player_id": "57ecaf579489750001a3b20c",
+      "march_team_id": "",
+      "groups": [],
+      "wall_hp": 6500750,
+      "wall_lvl": 21,
+      "power": 0
+    },
+    "result": {
+      "total_turns": 4638,
+      "winner_faction_id": 1,
+      "attacker_remains": [
+        {
+          "pos": 2,
+          "quantity": 0
+        },
+        {
+          "pos": 3,
+          "quantity": 0
+        },
+        {
+          "pos": 4,
+          "quantity": 0
+        },
+        {
+          "pos": 0,
+          "quantity": 0
+        },
+        {
+          "pos": 1,
+          "quantity": 0
+        }
+      ],
+      "defender_remains": [],
+      "wall_hp_remain": 1,
+      "battleStatics": {
+        "attacker": [
+          {
+            "pos": 1,
+            "crit": 0,
+            "dodge": 0,
+            "damage": 3338,
+            "takenDamage": 17053
+          },
+          {
+            "pos": 2,
+            "crit": 0,
+            "dodge": 0,
+            "damage": 15639,
+            "takenDamage": 19444
+          },
+          {
+            "pos": 3,
+            "crit": 0,
+            "dodge": 0,
+            "damage": 0,
+            "takenDamage": 14557
+          },
+          {
+            "pos": 4,
+            "crit": 0,
+            "dodge": 0,
+            "damage": 13196,
+            "takenDamage": 23091
+          },
+          {
+            "pos": 0,
+            "crit": 1,
+            "dodge": 0,
+            "damage": 1990372,
+            "takenDamage": 163049
+          }
+        ],
+        "defender": []
+      }
+    },
+    "hijackInfo": null,
+    "x": 267,
+    "y": 447,
+    "attacker_name": "沉着冷静的丹迪",
+    "attacker_level": 90,
+    "attacker_fortress_level": 0,
+    "attacker_icon": "Defalut_01",
+    "attacker_camp": 0,
+    "defender_name": "权略善战的科恩",
+    "defender_level": 90,
+    "defender_fortress_level": 24,
+    "defender_icon": "Defalut_01",
+    "defender_camp": 0,
+    "location": {
+      "locationType": 1,
+      "cityName": "权略善战的科恩的城市",
+      "cityLevel": 24,
+      "resourceType": 1,
+      "resourceLevel": 0,
+      "pveLevel": 0
+    },
+    "attackerAllianceId": "586328a42453350001fa06b5",
+    "attackerAllianceName": "SU*K XXX",
+    "attackerAllianceTag": "SKX",
+    "attackerAllianceFlag": "3-3-3-6-15-8",
+    "defenderAllianceId": "57fe13bd83417000016af8fc",
+    "defenderAllianceName": "F*CK XXX",
+    "defenderAllianceTag": "FKX",
+    "defenderAllianceFlag": "0-1-5-2-17-10",
+    "lastTurn": true,
+    "attackerGetFeats": 0,
+    "defenderGetFeats": 0,
+    "currentCityDefenceValue": 36302,
+    "lostCityDefenceValue": 0,
+    "maxCityDefenceValue": 36302,
+    "towerBuff": {
+      "increaseTowerRange": 20000,
+      "decreaseTowerSpeed": 10000,
+      "increaseTowerAttack": 30000
+    }
+  }
+}
+UnityEngine.Debug:Log(Object)
+DebugLogger:Log(Object, DebuggerType) (at Assets/Scripts/Utils/DebugLogger.cs:10)
+NetKit.SocketRouter:Enqueue(SocketData) (at Assets/Foundation/SocketMgr/SocketRouter.cs:70)
+SocketMgr:Update() (at Assets/Foundation/SocketMgr/SocketMgr.cs:130)
